@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://giphy.com/gifs/2xPPojqe3mraUXS6dk/html5" width="30%">
+  <img src="https://media.giphy.com/media/2xPPojqe3mraUXS6dk/giphy.gif" width="30%">
   <br><br>
   <samp>
     I'm Vishisth Chaturvedi :wave:
