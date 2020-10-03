@@ -10,7 +10,7 @@
     <br><br>
     Connect with me at  : https://www.linkedin.com/in/vishisth29/
     <br><br>
-    Or send email at:
+    Or send me an email at:
     <a href = "mailto: mailtovishisth@gmail.com">mailtovishisth@gmail.com</a>
   </samp>
 </p>
