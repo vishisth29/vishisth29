@@ -6,7 +6,7 @@
     <br><br>
     I am a grad student at the University of Flroida 
     <br><br>
-    Software Developlemt || Full Stack Development || Data Science
+    Software Developlemt || Full Stack Development
     <br><br>
     Connect with me at  : https://www.linkedin.com/in/vishisth29/
     <br><br>
