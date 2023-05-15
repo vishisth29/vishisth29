@@ -4,7 +4,7 @@
   <samp>
     I'm Vishisth Chaturvedi :wave:
     <br><br>
-    I am a grad student at the University of Flroida 
+    I am a SDE at AWS AppRunner
     <br><br>
     Software Developlemt || Full Stack Development
     <br><br>
