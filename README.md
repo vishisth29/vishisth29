@@ -4,7 +4,7 @@
   <samp>
     I'm Vishisth Chaturvedi :wave:
     <br><br>
-    I am an SDE at AWS AppRunner
+    I am a Senior Software Engineer at Spoton Payments team
     <br><br>
     Software Developlemt || Full Stack Development
     <br><br>
